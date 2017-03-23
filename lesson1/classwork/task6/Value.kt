@@ -1,4 +1,5 @@
-package kss.tasks.pdf1.practice.task6
+package kotlin.lesson1.classwork.task6
+
 
 open class Value(val t: Number) {
 

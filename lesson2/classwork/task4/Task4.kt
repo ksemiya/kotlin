@@ -1,4 +1,4 @@
-package kss.tasks.pdf2.practice.task4
+package kotlin.lesson2.classwork.task4
 
 private fun arrayOfNumber(vararg n: Number): Array<Number> {
     return Array(n.size, { n[it] })

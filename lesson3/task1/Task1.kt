@@ -1,4 +1,4 @@
-package kss.tasks.freetasks.task1
+package kotlin.lesson3.task1
 
 import java.util.*
 

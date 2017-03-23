@@ -1,4 +1,4 @@
-package kss.tasks.pdf2.practice.task3
+package kotlin.lesson2.classwork.task3
 
 import kss.tasks.pdf1.practice.task6.execute
 

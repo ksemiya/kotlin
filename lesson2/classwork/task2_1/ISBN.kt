@@ -1,4 +1,4 @@
-package kss.tasks.pdf2.practice.task2_1
+package kotlin.lesson2.classwork.task2_1
 
 class ISBN (val code: String)
 

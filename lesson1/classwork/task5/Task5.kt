@@ -1,4 +1,4 @@
-package kss.tasks.pdf1.practice.task5
+package kotlin.lesson1.classwork.task5
 
 import java.util.*
 import kotlin.collections.ArrayList

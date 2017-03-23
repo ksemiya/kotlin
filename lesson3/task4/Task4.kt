@@ -1,4 +1,4 @@
-package kss.tasks.freetasks.task4
+package kotlin.lesson3.task4
 
 fun task4(string: String, a: Int, b: Int): String {
     return string

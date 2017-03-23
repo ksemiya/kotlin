@@ -1,4 +1,4 @@
-package kss.tasks.freetasks.task2
+package kotlin.lesson3.task2
 
 fun task2(source: String) {
     println(

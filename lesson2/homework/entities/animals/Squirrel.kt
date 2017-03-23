@@ -1,4 +1,4 @@
-package kss.tasks.pdf2.belochki.entities.animals
+package kotlin.lesson2.homework.entities.animals
 
 import kss.tasks.pdf2.belochki.entities.TreePart
 import kss.tasks.pdf2.belochki.entities.trees.Tree

@@ -1,4 +1,4 @@
-package kss.tasks.pdf2.practice.task4
+package kotlin.lesson2.classwork.task4
 
 class Matrix private constructor(val width: Int, val height: Int, val values: Array<Array<Number>>) {
 

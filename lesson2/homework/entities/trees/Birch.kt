@@ -1,4 +1,4 @@
-package kss.tasks.pdf2.belochki.entities.trees
+package kotlin.lesson2.homework.entities.trees
 
 import kss.tasks.pdf2.belochki.models.TreeModel
 import kss.tasks.pdf2.belochki.rendering.Model

@@ -1,4 +1,4 @@
-package kss.tasks.pdf2.belochki
+package kotlin.lesson2.homework
 
 import kss.tasks.pdf2.belochki.entities.GameEntity
 import kss.tasks.pdf2.belochki.entities.TreePart

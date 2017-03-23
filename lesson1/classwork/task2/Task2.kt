@@ -1,4 +1,5 @@
-package kss.tasks.pdf1.practice.task2
+package kotlin.lesson1.classwork.task2
+
 
 import java.io.BufferedReader
 import java.io.InputStreamReader

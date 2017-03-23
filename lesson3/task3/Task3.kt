@@ -1,4 +1,4 @@
-package kss.tasks.freetasks.task3
+package kotlin.lesson3.task3
 
 fun task3(list: List<Int>, set: Set<Int>): List<List<Int>> {
     return set

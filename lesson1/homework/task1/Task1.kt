@@ -1,4 +1,5 @@
-package kss.tasks.pdf1.homework.task1
+package kotlin.lesson1.homework.task1
+
 
 fun task1(data: List<String>): List<List<String>> {
     data

@@ -1,4 +1,4 @@
-package kss.tasks.pdf1.practice.task6
+package kotlin.lesson1.classwork.task6
 
 private fun tokenize(s: String, tokenz: Collection<Char>): ArrayList<String> {
     val list = ArrayList<String>()

@@ -1,3 +1,3 @@
-package kss.tasks.pdf2.belochki.models
+package kotlin.lesson2.homework.models
 
 

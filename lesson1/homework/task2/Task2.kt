@@ -1,4 +1,4 @@
-package kss.tasks.pdf1.homework.task2
+package kotlin.lesson1.homework.task2
 
 
 private fun StringBuilder.append(symbol: Char, count: Int, dropOneSymbolsCount: Boolean) {

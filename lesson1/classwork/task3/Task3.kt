@@ -1,4 +1,4 @@
-package kss.tasks.pdf1.practice.task3
+package kotlin.lesson1.classwork.task3
 
 private fun buildPascalCoefs(n: Int): ArrayList<ArrayList<Long>> {
     val list = ArrayList<ArrayList<Long>>()

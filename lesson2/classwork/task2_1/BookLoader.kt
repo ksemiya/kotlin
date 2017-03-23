@@ -1,4 +1,4 @@
-package kss.tasks.pdf2.practice.task2_1
+package kotlin.lesson2.classwork.task2_1
 
 import org.w3c.dom.Element
 import org.w3c.dom.Node

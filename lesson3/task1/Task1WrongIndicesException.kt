@@ -1,3 +1,3 @@
-package kss.tasks.freetasks.task1
+package kotlin.lesson3.task1
 
 class Task1WrongIndicesException(message: String) : Exception(message)

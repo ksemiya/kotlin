@@ -1,4 +1,4 @@
-package kss.tasks.pdf2.belochki.entities
+package kotlin.lesson2.homework.entities
 
 enum class MovingAbility {
 

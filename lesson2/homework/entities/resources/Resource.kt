@@ -1,4 +1,4 @@
-package kss.tasks.pdf2.belochki.entities.resources
+package kotlin.lesson2.homework.entities.resources
 
 import kss.tasks.pdf2.belochki.entities.GameEntity
 import kss.tasks.pdf2.belochki.entities.WorldContext

@@ -1,4 +1,4 @@
-package kss.tasks.pdf2.practice.task1
+package kotlin.lesson2.classwork.task1
 
 abstract class HelloWorldPrinter: MessagePrinter {
 
